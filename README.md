@@ -102,5 +102,5 @@ npm run lint    # run eslint
 ## Team Members
 
 - Member 1: Ranjith kumar.A
-- Member 2: Yuvedha.d
+- Member 2: Yuvedha.D
 
